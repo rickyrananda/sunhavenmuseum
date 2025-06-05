@@ -1,0 +1,9 @@
+#border {
+    border: 30px solid;
+    padding: 30px;
+    border-image-repeat: stretch;
+    border-image-slice: 60;
+    border-image-width: 20px;
+    border-image-outset: 20px;
+    border-image: url('../assets/Border.png') 50 round;
+}
